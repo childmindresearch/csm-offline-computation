@@ -1,9 +1,9 @@
 # CSM Offline Computation
-[![Build](https://github.com/cmi-dair/csm-offline-computation/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/cmi-dair/csm-offline-computation/actions/workflows/test.yaml?query=branch%3Amain)
-[![codecov](https://codecov.io/gh/cmi-dair/csm-offline-computation/branch/main/graph/badge.svg?token=22HWWFWPW5)](https://codecov.io/gh/cmi-dair/csm-offline-computation)
+[![Build](https://github.com/childmindresearch/csm-offline-computation/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/childmindresearch/csm-offline-computation/actions/workflows/test.yaml?query=branch%3Amain)
+[![codecov](https://codecov.io/gh/childmindresearch/csm-offline-computation/branch/main/graph/badge.svg?token=22HWWFWPW5)](https://codecov.io/gh/childmindresearch/csm-offline-computation)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-[![L-GPL License](https://img.shields.io/badge/license-L--GPL_2.1-blue.svg)](https://github.com/cmi-dair/csm-offline-computation/blob/main/LICENSE)
+[![L-GPL License](https://img.shields.io/badge/license-L--GPL_2.1-blue.svg)](https://github.com/childmindresearch/csm-offline-computation/blob/main/LICENSE)
 
 CSM Offline is a command-line tool designed for processing data in a manner similar to the [Cross Species Mapper](https://interspeciesmap.childmind.org/). It allows users to load data, calculate feature similarity, run NeuroQuery image searches, and save the output to disk.
 

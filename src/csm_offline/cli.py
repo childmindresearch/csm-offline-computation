@@ -18,7 +18,7 @@ def parse_arguments() -> argparse.Namespace:
     logger.info("Parsing Arguments")
     parser = argparse.ArgumentParser(
         description="CSM Offline: A tool for processing Cross Species Mapper data.",
-        epilog="To report a bug, please raise an issue at https://github.com/cmi-dair/csm-offline-computation.",
+        epilog="To report a bug, please raise an issue at https://github.com/childmindresearch/csm-offline-computation.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument(
